@@ -1,6 +1,7 @@
 // CoinDetector.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // William Jiang
-// 4/24/23
+// Started 4/24/23
+// Finished 10/15/23
 
 #include <iostream>
 #include <iomanip>
